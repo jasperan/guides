@@ -12,7 +12,7 @@ If you plan to use LiveLabs for your project and want to upload your code to the
 3. Next, you'll need to create a pull request in the "analytics-ai" repository owned by the LiveLabs team. However, there are a couple of caveats to keep in mind. The filenames in this pull request should reference the development environment with full URLs, rather than local files.
     ![img 2](./images/livelabs2.png)
 
-4. When creating the pull request, make sure to upload only the content inside your workshop folder, not the markdown files themselves, as it would be redundant.
+4. When creating the pull request, make sure to upload only the content inside your workshop folder, not the markdown files themselves, as it would be redundant.  
     ![img 3](./images/livelabs3.png)
 
 5. Determine the appropriate repository for your project based on its focus. If it's related to AI, which is usually the case, use the ["analytics-ai" repository.](https://github.com/oracle-livelabs/analytics-ai) For other topics, like database or OCI, use the relevant repository.
